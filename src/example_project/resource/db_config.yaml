@@ -1,0 +1,6 @@
+database:
+  host: localhost
+  port: 5432
+  name: espresso_bar_db
+  user: postgres
+  password: 1234
